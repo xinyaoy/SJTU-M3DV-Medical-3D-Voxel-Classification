@@ -1,6 +1,6 @@
 # SJTU-M3DV-Medical-3D-Voxel-Classification
 
-[ver3.py](https://github.com/xinyaoy/SJTU-M3DV-Medical-3D-Voxel-Classification/blob/master/ver3.py) is the code for training and testing. 
+[ver3.py](https://github.com/xinyaoy/SJTU-M3DV-Medical-3D-Voxel-Classification/blob/master/ver3.py) is the code for training and testing. It contains customized dataset, network and output result.
 Running it, you can use the given data to train the model and save it. It  will output the result on the test set with csv file. 
 
 [test.py](https://github.com/xinyaoy/SJTU-M3DV-Medical-3D-Voxel-Classification/blob/master/test.py) is the code for loading the model
